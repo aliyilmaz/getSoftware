@@ -1,6 +1,6 @@
 ## What is getSoftware ?
 
-It is used to obtain the server software name on the operating system on which the project is running. **Apache**, **Microsoft ISS** and **LiteSpeed** software are supported, other server software is named **Unknown**.
+It is used to get the server software name on the operating system the project is running on. **Apache**, **Microsoft ISP**, **LiteSpeed** and **Nginx** software are supported, other server software is named **Unknown**.
 
 **Out-of-class use:**
 
